@@ -1,0 +1,1 @@
+dice=((RANDOM%6 +1))
